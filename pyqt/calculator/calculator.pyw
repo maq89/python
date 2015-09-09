@@ -1,6 +1,6 @@
 import sys
 from calculator_ui import *
-
+ 
 class Calculator(QtGui.QDialog):
 
 	def __init__(self, parent=None):
